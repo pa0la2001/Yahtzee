@@ -1,2 +1,2 @@
-# Yahtzee
-Yahtzee Game in Java 
+# yahtzee-java
+Simple Yahtzee game in Java with MySQL db
